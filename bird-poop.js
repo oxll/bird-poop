@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(window.innerWidth, window.innerHeight);
+  createCanvas(window.screen.width, window.screen.height);
 }
 
 let poops = [];
