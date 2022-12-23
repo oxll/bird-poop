@@ -1,10 +1,4 @@
-html,
-body,
-canvas {
+body {
   margin: 0;
   overflow: hidden;
-}
-
-body {
-  background: purple;
 }
